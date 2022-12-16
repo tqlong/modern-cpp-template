@@ -1,8 +1,8 @@
-[![Actions Status](https://github.com/filipdutescu/modern-cpp-template/workflows/MacOS/badge.svg)](https://github.com/filipdutescu/modern-cpp-template/actions)
-[![Actions Status](https://github.com/filipdutescu/modern-cpp-template/workflows/Windows/badge.svg)](https://github.com/filipdutescu/modern-cpp-template/actions)
-[![Actions Status](https://github.com/filipdutescu/modern-cpp-template/workflows/Ubuntu/badge.svg)](https://github.com/filipdutescu/modern-cpp-template/actions)
-[![codecov](https://codecov.io/gh/filipdutescu/modern-cpp-template/branch/master/graph/badge.svg)](https://codecov.io/gh/filipdutescu/modern-cpp-template)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/filipdutescu/modern-cpp-template)](https://github.com/filipdutescu/modern-cpp-template/releases)
+[![Actions Status](https://github.com/tqlong/modern-cpp-template/workflows/MacOS/badge.svg)](https://github.com/tqlong/modern-cpp-template/actions)
+[![Actions Status](https://github.com/tqlong/modern-cpp-template/workflows/Windows/badge.svg)](https://github.com/tqlong/modern-cpp-template/actions)
+[![Actions Status](https://github.com/tqlong/modern-cpp-template/workflows/Ubuntu/badge.svg)](https://github.com/tqlong/modern-cpp-template/actions)
+[![codecov](https://codecov.io/gh/tqlong/modern-cpp-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tqlong/modern-cpp-template)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tqlong/modern-cpp-template)](https://github.com/tqlong/modern-cpp-template/releases)
 
 # Modern C++ Template
 
@@ -74,15 +74,15 @@ template *as-is*, meaning using the versions recommended here, then you will nee
 ### Installing
 
 It is fairly easy to install the project, all you need to do is clone if from
-[GitHub](https://github.com/filipdutescu/modern-cpp-template) or
-[generate a new repository from it](https://github.com/filipdutescu/modern-cpp-template/generate)
+[GitHub](https://github.com/tqlong/modern-cpp-template) or
+[generate a new repository from it](https://github.com/tqlong/modern-cpp-template/generate)
 (also on **GitHub**).
 
 If you wish to clone the repository, rather than generate from it, you simply need
 to run:
 
 ```bash
-git clone https://github.com/filipdutescu/modern-cpp-template/
+git clone https://github.com/tqlong/modern-cpp-template/
 ```
 
 After finishing getting a copy of the project, with any of the methods above, create
@@ -194,11 +194,11 @@ become a contributor and the process for submitting pull requests to us.
 
 This project makes use of [SemVer](http://semver.org/) for versioning. A list of
 existing versions can be found in the
-[project's releases](https://github.com/filipdutescu/modern-cpp-template/releases).
+[project's releases](https://github.com/tqlong/modern-cpp-template/releases).
 
 ## Authors
 
-* **Filip-Ioan Dutescu** - [@filipdutescu](https://github.com/filipdutescu)
+* **Filip-Ioan Dutescu** - [@tqlong](https://github.com/tqlong)
 
 ## License
 
